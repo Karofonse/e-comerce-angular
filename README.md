@@ -1,4 +1,5 @@
 # Angularshop
+You can see the proyect here: https://e-comerce-angular-2.vercel.app/ 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
